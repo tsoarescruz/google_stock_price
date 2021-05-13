@@ -4,9 +4,9 @@
 
 
 * feat create a simple stock price app, to studie data science.
+> Exercises to: https://youtu.be/JwSS70SZdyM 
 
 > https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
-
 
 
 * Closing Price:
