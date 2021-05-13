@@ -7,10 +7,20 @@
 
 > https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
 
+
+
+* Closing Price:
+
+![closing_price](img/closing_price.png)
+
+* Volume Price:
+
+![volume_price](img/volume_price.png)
+
 # Streamlit on Docker
 ## Run Streamlit
 ### Run the app script
 
 Run `docker-compose up` to run `src/app.py` in Streamlit.
 
-then open [localhost:8501/?name=main](http://localhost:8501/?name=main) in your browser. 
+then open [localhost:8501/?name=app](http://localhost:8501/?name=app) in your browser. 
