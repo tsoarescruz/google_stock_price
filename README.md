@@ -21,6 +21,6 @@
 ## Run Streamlit
 ### Run the app script
 
-Run `docker-compose up` to run `src/app.py` in Streamlit.
+Run `docker-compose up --build` to run `src/app.py` in Streamlit.
 
 then open [localhost:8501/?name=app](http://localhost:8501/?name=app) in your browser. 
